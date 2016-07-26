@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:F2ETW 好聚好善! Seek Meetups
+METHOD:REQUEST
+PRODID:node-ical-toolkit
+X-WR-TIMEZONE:Asia/Taipei
+
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+X-LIC-LOCATION:Asia/Taipei
+
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+
+END:VTIMEZONE
+
+
+BEGIN:VEVENT
+UID:0f57c40a
+DTSTAMP:20160726T165150Z
+TRANSP:OPAQUE
+DTSTART:20160728T113000Z
+DTEND:20160728T133000Z
+SUMMARY:Web Tech Topic
+SEQUENCE:0
+LOCATION:新北創力坊 - 新北市三重區重新路一段108號3樓(捷運台北橋站3樓)
+DESCRIPTION:https://github.com/amazing-tutor/web-tutor-on-thursday/\nWeb Tech Topic 是每週一次的主題式技術分享聚會\n主題將包含 Javascript\, Ruby on Rails\, HTML\, CSS\, Devops\, web tools\, library…\n預期每週將邀請兩位分享者，每位 30分鐘 分享及 15分鐘 QA\n
+URL;VALUE=URI:https://github.com/amazing-tutor/web-tutor-on-thursday/
+STATUS:CONFIRMED
+RRULE:FREQ=WEEKLY;INTERVAL=1
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,16 @@
+title: Web Tech Topic
+start: '2016-07-28T19:30'
+end: '2016-07-28T21:30'
+location: '新北創力坊 - 新北市三重區重新路一段108號3樓(捷運台北橋站3樓)'
+url: 'https://github.com/amazing-tutor/web-tutor-on-thursday/'
+info: |
+  Web Tech Topic 是每週一次的主題式技術分享聚會
+  主題將包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library…
+  預期每週將邀請兩位分享者，每位 30分鐘 分享及 15分鐘 QA
+org:
+  name: Web Tech Topic
+  url: https://github.com/amazing-tutor/web-tutor-on-thursday
+
+repeating:
+  freq: 'WEEKLY'
+  interval: 1
