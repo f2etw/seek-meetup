@@ -1,0 +1,29 @@
+{
+  "name": "seek-meetup",
+  "version": "0.1.0",
+  "description": "收集台灣各地的前端活動！好聚好善！",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-2": "^6.11.0",
+    "ical-toolkit": "^1.0.9",
+    "yamljs": "^0.2.8"
+  },
+  "scripts": {
+    "start": "babel-node index.js --presets es2015,stage-2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f2etw/seek-meetup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC0 1.0",
+  "bugs": {
+    "url": "https://github.com/f2etw/seek-meetup/issues"
+  },
+  "homepage": "https://github.com/f2etw/seek-meetup#readme"
+}
