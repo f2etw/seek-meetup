@@ -1,0 +1,13 @@
+title: 'VueDinner#2 Ping Pong ! Vuex + Laravel'
+start: '2016-07-28T19:30'
+end: '2016-07-28T21:30'
+location: '極客窩 Geek Cave / 台北市忠孝東路三段248巷65號"對面"'
+url: 'http://vuejs.kktix.cc/events/vuedinner2'
+info: |
+  鄭宇翔
+  Ping Pong ! Vuex + Laravel
+  Vuex 是官方專為 Vue.js 所寫的 flux framework，相當於 Redux 之於 React.js。 本次講題將從 Component 溝通角度來帶入何時適合使用 Vuex，並如何使用 devtools 來偵錯 Vuex。 最後會用 Vue + Vuex + Laravel 來實作一個簡單的範例
+
+org:
+  name: 'Vue.js 台灣'
+  url: 'https://www.facebook.com/groups/vuejs.tw/'
