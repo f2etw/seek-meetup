@@ -1,0 +1,13 @@
+title: '台中前端社群 08/04 定期聚會 @夢種子'
+start: '2016-08-04T19:15'
+end: '2016-08-04T21:15'
+location: 'Dreamseeds 夢種子 / 西屯區河南路二段262號14F'
+url: 'http://taichung-frontend.kktix.cc/events/160804'
+info: |
+  React Native使用後心得
+  由React.js延伸的React Native真是網站工程師踏入手機App的利器。透過React Native，網頁工程師也能開發原生的IOS與Android應用程式，但是在藉由React Native踏入原生App之後會踩到哪些坑呢? 本次分享者Tomas Lin將開發Reate Native所遇到的悲慘寶貴經驗分享給大家，歡迎有興趣的朋友一同來參與。
+
+  這是React Native一系列的經驗分享，本次主題主要在React Native Container與Action的部分。
+org:
+  name: '台中前端社群'
+  url: 'https://www.facebook.com/groups/taichung.f2e/'
