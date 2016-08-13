@@ -1,0 +1,21 @@
+title: 'React Friends'
+start: '2016-08-10T19:30'
+end: '2016-08-10T21:00'
+location: 'Taipei Hackerspace 太原路133巷26號4樓, Taipei, Taiwan 103'
+url: 'https://www.facebook.com/events/1204515652912870/'
+info: |
+  目前基本上為隔週開放，有空的朋友一起來走走吧~
+
+  主旨
+  1.分享一下最近的開發心得
+  2.遇到問題也可以直接有個人可以面對面的解答
+  3.Demo一下自已做的project 等等
+
+  到Hackerspace樓下按個門鈴，樓上會有人來開門，
+  離開HS保持整潔，這樣就ok啦.
+org:
+  name: 'Yi-Ju Wu'
+  url: 'https://www.facebook.com/yijuwu'
+repeating:
+  freq: 'WEEKLY'
+  interval: 2
