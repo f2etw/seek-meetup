@@ -17,7 +17,7 @@ export default function (opt) {
     }
   };
 
-  var eventData = Object.assign(defaultData, YAML.load(`${__dirname}/events/${opt.item}`));
+  var eventData = Object.assign(defaultData, YAML.load(opt.yaml));
 
   // Create a builder
   var builder = icalToolkit.createIcsFileBuilder();
@@ -116,7 +116,8 @@ export default function (opt) {
     console.log('Returned Error, you can also configure to throw errors!');
     // handle error
   } else {
-    fs.writeFile(`ics/${opt.item}.ics`, icsFileContent);
+    let fileName = opt.yaml.replace(/^events\/(.+)$/, './ics/$1.ics');
+    fs.writeFile(fileName, icsFileContent);
   }
 
   // Here isteh ics file content.

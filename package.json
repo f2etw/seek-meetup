@@ -9,10 +9,12 @@
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-stage-2": "^6.11.0",
     "ical-toolkit": "^1.0.9",
+    "mkdirp": "^0.5.1",
     "yamljs": "^0.2.8"
   },
   "scripts": {
-    "start": "babel-node index.js --presets es2015,stage-2",
+    "start": "mkdir -p ics; babel-node index.js --presets es2015,stage-2",
+    "clear": "rm -rf ics",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
