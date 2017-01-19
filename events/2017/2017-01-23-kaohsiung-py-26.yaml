@@ -1,0 +1,12 @@
+title: 'Kaohsiung Python Meetup #26 - Django + vue.js'
+start: '2017-01-23T19:00:00'
+end: '2017-01-23T22:00:00'
+location: '高雄市三民區民族一路900號 / 文藻外語大學 自強樓F101教室'
+url: 'https://www.meetup.com/Kaohsiung-Python-Meetup/events/236955219/'
+info: |
+  本次聚會中，我們將探討如何使用 vue.js + django 做一個類似 http://udn.com/news/story/8864/2227437 的網站。 :p
+  * 許富棋: 使用 vue.js 建構訂便當網站
+  * Pochang Lee: 用 Django 做訂便當的 API
+org:
+  name: 'Kaohsiung.py'
+  url: 'https://www.facebook.com/groups/kaohsiungpy/'
