@@ -1,0 +1,11 @@
+title: 'WebExtensions 初學動手做 - 第一次寫跨瀏覽器擴充套件就上手'
+start: '2017-04-08T14:00'
+end: '2017-04-08T17:00'
+location: '八德路一段94號3F, Taipei, Taiwan 100 / 摩茲工寮'
+url: 'https://www.facebook.com/events/1764265920253992/'
+info: |
+  WebExtensions API 是一套跨瀏覽器的擴充套件 API，主要由 Mozilla 參考目前 Chrome 及 Opera 各自的套件規範而做。在 Microsoft 的 Edge 瀏覽器也開始支援 Chrome Extension 的情形下，有興趣擴充瀏覽器功能的人，只需要用一套非常相近的 API 就能夠寫出跨瀏覽器的套件。
+  本次的三小時課程專為能撰寫 JavaScript（略懂即可）、但不會寫瀏覽器擴充套件的新手設計，您將可從中理解當代擴充套件的概念，並實際寫出一套能跨瀏覽器執行的套件。
+org:
+  name: 'Mozilla 台灣社群'
+  url: 'https://www.facebook.com/MozTW/'
