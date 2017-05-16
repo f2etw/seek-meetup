@@ -23,6 +23,6 @@
 * 幫忙整理活動資訊，並新增一則 [ISSUE](https://github.com/f2etw/seek-meetup/issues/new) ✌
 * Fork repo、新增完活動訊息後，發送 PR 成為**貢獻者**！ ✨
 
-<iframe src="https://calendar.google.com/calendar/embed?src=8lj511li54lc5q2etflo7utof8%40group.calendar.google.com&ctz=Asia/Taip"> </iframe>
+<iframe style="width: 100vw; height: 40vw; max-width: 100%; min-height: 40vh;" src="https://calendar.google.com/calendar/embed?src=8lj511li54lc5q2etflo7utof8%40group.calendar.google.com&ctz=Asia/Taip"> </iframe>
 
 ### LICENCE： CC0 1.0 Universal
