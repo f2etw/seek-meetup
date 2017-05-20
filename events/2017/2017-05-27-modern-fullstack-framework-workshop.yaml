@@ -1,0 +1,17 @@
+title: 'Modern Fullstack Framework Workshop'
+start: '2017-05-27T10:00'
+end: '2017-05-27T17:00'
+location: '臺大第二學生活動中心 703 教室'
+url: 'https://airtable.com/shrYH7PLH6Kemx394'
+info: |
+  HackNTU 臺大黑客松團隊，特別邀請到目前在矽谷新創 Chartmetric 擔任 Lead Engineer 的 Warren（李中豪）帶來一場包含理論與實作的全端（Full Stack）技術工作坊
+  ☛ 使用 hapi.js（node.js）架設 API Server
+  ☛ 介紹 PostgreSQL 以及基本 SQL 語法、指令
+  ☛ 介紹 React／Redux 的理論與使用，實作網頁前端
+  ☛ 介紹常見 UI Template
+  ☛ 使用以上技術，製作一個完整的 Web 應用
+  ☛ 讓學員了解目前職場，全端工程師所需要用到的技術
+
+org:
+  name: 'HackNTU'
+  url: 'https://www.facebook.com/hackNTU'
