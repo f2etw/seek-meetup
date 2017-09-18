@@ -1,0 +1,13 @@
+title: 'GraphQL Taiwan 社群小聚 #1'
+start: '2017-08-16T19:30'
+end: '2017-08-16T21:30'
+location: '台灣大學 電機二館 105 演講廳 / 台灣大學電機二館'
+url: 'https://www.facebook.com/groups/graphql.tw/permalink/1402751956467250/'
+info: |
+  KKTIX: https://graphqltaiwan.kktix.cc/events/meetup01
+
+  這是 GraphQL Taiwan 的第一次聚會，將先進行一個 GraphQL Overview！活動中將與各位分享 GraphQL 的語言特色 (Query、Mutation、Subscription 等等)，生態系 (Relay、Apollo、Graph.cool)，以及未來的發展方向。這場活動也同時邀請了幾位開發者分享他們的 GraphQL 使用經驗。
+
+org:
+  name: 'GraphQL Taiwan'
+  url: 'https://www.facebook.com/groups/graphql.tw/'
