@@ -1,0 +1,23 @@
+title: 'F2E & RGBA 設計 Meetup 七月號'
+start: '2017-07-24T19:00'
+end: '2017-07-24T22:00'
+location: 'Tmot Space / 羅斯福路三段283巷21弄3號, Taipei, Taiwan 106'
+url: 'https://www.facebook.com/events/301545300318126/'
+info: |
+  KKTIX: https://f2e.kktix.cc/events/f2e6-56d17c-0f9e5b-3997b7-a9203f-d684fd-886f38-165143-44d76a-82ae6b
+
+  主題：工程師欲善其事 必先利其器
+
+  1.
+  講者: Gore
+  講題: 用Draft.js打造理想Editor！
+  講題簡介: 介紹Draft.js的各種實現驗策略，以及其immutable資料架構。（- React Only -）
+
+  2.
+  講者：YuTin
+  講題：Apollo Client 讓我們更專注在視覺設計
+  講題簡介：Superagent 是 RESTful vs Apollo 是 GraphQL 只是粗淺的認識，30 min 裡要跟大家分享 Apollo 還做了哪些貼心的事
+
+org:
+  name: 'Front-End Developers Taiwan'
+  url: 'https://www.facebook.com/groups/f2e.tw/'
